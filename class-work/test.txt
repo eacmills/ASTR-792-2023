@@ -1,0 +1,3 @@
+# Please use git to upload your in-class work to this directory.
+# Include the date and your last name/ the last name of your group members 
+# in the file name.
